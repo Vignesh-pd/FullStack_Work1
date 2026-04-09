@@ -1,2 +1,4 @@
 Hello ! my first GIT file
 I cloned this file and made a new change
+
+I am making another change to see the difference
