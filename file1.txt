@@ -1,1 +1,2 @@
 Hello ! my first GIT file
+I cloned this file and made a new change
